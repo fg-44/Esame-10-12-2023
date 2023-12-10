@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+/* RESET PADDING*/
+/* appilca il padding all'interno degli elementi e non all'esterno*/
+
+*,
+*:before,
+*:after {
+
+     -webkit-box-sizing: border-box ;
+         -moz-box-sizing:border-box ;
+             box-sizing: border-box ;
+}
